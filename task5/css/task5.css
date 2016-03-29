@@ -1,0 +1,190 @@
+body
+{
+	width: 100%;
+	background-color: #CDCDCD;
+	font-family: "Microsoft Yahei";
+
+
+	
+}
+.content
+{
+	width: 100%;
+	overflow: auto;
+}
+
+.top
+{
+	width: 100%;
+	height: 60px;	
+	background-color: #414141;
+}
+.logo
+{ 
+	float: left;
+	color: #FFFFFF;
+	font-size: 45px;
+	display: inline-block;
+	overflow: auto;
+}
+
+.top ul
+{
+	float: right;
+}
+.top ul li
+{
+	float: left;
+	font-size: 15px;
+	margin: 0px 10px 40px 10px;
+}
+.top a
+{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+article{
+	background-color: #fff;
+	padding: 20px;
+	border: 1px soild;
+	margin: 0px 20px 15px 20px;
+	overflow: auto;
+
+}
+article h1
+{
+margin: 8px 0px;
+}
+article h2
+{
+	margin:5px 0px;
+    color: #A8A8A8;
+    font-size: 20px;
+}
+article span
+{
+	margin: 5px 0px;
+	font-size: 10px;
+	color: #CDCDCD;
+}
+article p
+{
+text-indent: 2em;
+}
+article ul
+{
+	list-style-type: none;
+}
+dd
+{
+	position: relative;
+	width:123px;
+	height: 123px;
+	border: 1px solid #A8A8A8;
+	padding: 10px ;
+	margin-left: 40px;
+	margin-top: 15px;
+	text-align: center;
+	float: left;
+}
+dd img
+{
+	margin-top: 15px;
+	width: 100px;
+	height: 80px;
+}
+.table1
+{
+width:100%;
+height: 145px;
+border:1px solid #A8A8A8;
+border-collapse: collapse;
+text-align: left;
+}
+.table1 td
+{
+border:1px solid #CDCDCD;
+
+}
+.table1 th
+{
+	background-color:#414141;
+	border:1px solid #CDCDCD;
+	color: #FFFFFF; 
+}
+#gray-tr
+{
+	background-color:#A8A8A8;
+}
+.main
+{	
+	width: 100%;
+	overflow: auto;
+	line-height:2em;
+	font-size: 15px;
+
+}
+.form-question
+{
+	position:relative;
+	float: left;
+	margin-right: 10px;
+	width: 32%;
+	text-align: right;
+	border: 0px;
+
+}
+.form-answer
+{
+	width: 64%;
+	position:relative;
+	float: left;
+
+}
+.form-anwser span
+{
+	font-size: 10px;
+	color: gray;
+}
+#submit
+{
+	width:100%;
+	height: 40px;
+	font-size: 15px;
+	background-color: #3355d0;
+	text-align: center;
+	color: #FFFFFF;
+	border: 0px;
+	border-radius: 15px;
+
+}
+.footer
+{
+	position: 
+	width: 100%;
+	height: 40px;
+	padding: 15px;
+	background-color: #000000;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 10px;
+}
+.sidebar
+{
+	position: absolute;
+	right: 0px;
+	width: 450px;
+	margin-right: 10px;
+	background-color: #fff;
+	padding: 20px;
+	
+}
+.ma-con
+{
+	position: relative;
+	margin-right: 500px;
+	display: inline-block;
+	float: left;
+	
+
+}
